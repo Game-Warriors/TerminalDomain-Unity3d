@@ -1,0 +1,21 @@
+{
+  "name": "com.gamewarriors.terminalsystem",
+  "version": "0.1.0",
+  "displayName": "Terminal System",
+  "description": "This package provide structure to host method callback witch you can call method by name and variable by terminal input",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "Terminal",
+    "Development Tool",
+    "Unity3d"
+  ],
+  "author": {
+    "name": "Game Warriors",
+    "email": "mahdifada.eddini@outlook.com",
+    "url": "https://www.gamewarriorsstudio.com"
+  }
+}

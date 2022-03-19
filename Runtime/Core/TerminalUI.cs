@@ -1,6 +1,4 @@
-﻿#if DEVELOPMENT || UNITY_EDITOR||DEVELOPMENT_RELEASE
-
-using System;
+﻿using System;
 using GameWarriors.TerminalDomain.Abstraction;
 using TMPro;
 using UnityEngine;
@@ -124,4 +122,3 @@ namespace GameWarriors.TerminalDomain.Core
         }
     }
 }
-#endif

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Common.Extensions;
-using GameWarriors.EventDomain.Abstraction;
 using GameWarriors.TerminalDomain.Abstraction;
 using UnityEngine;
 
